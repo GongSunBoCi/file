@@ -1,0 +1,5 @@
+#Javascript :The definitive Guide
+Chapter One Core Javascript
+var array=[2,3,5,7];
+array[4]=9;//add a new element by assignment.
+array[4]=11;//or alter an existing element by assignment
